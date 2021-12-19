@@ -1,0 +1,8 @@
+/release/
+/x64/
+/SpotifyReader/release/
+/SpotifyReader/x64/
+.DS_Store
+.idea
+.vscode
+.vs

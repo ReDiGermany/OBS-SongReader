@@ -1,0 +1,122 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpotifyReader", "SpotifyReader\SpotifyReader.vcxproj", "{2885ED73-B213-4261-AF4B-7402D5044DB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86D0BB85-2237-4ADD-BCD7-1C93DDF457DD}"
+	ProjectSection(SolutionItems) = preProject
+		SpotifyReader\obs-studio-master\.cirrus.yml = SpotifyReader\obs-studio-master\.cirrus.yml
+		SpotifyReader\cpp-httplib-master\.clang-format = SpotifyReader\cpp-httplib-master\.clang-format
+		SpotifyReader\obs-studio-master\.clang-format = SpotifyReader\obs-studio-master\.clang-format
+		SpotifyReader\obs-studio-master\.editorconfig = SpotifyReader\obs-studio-master\.editorconfig
+		SpotifyReader\obs-studio-master\.git-blame-ignore-revs = SpotifyReader\obs-studio-master\.git-blame-ignore-revs
+		SpotifyReader\obs-studio-master\.gitattributes = SpotifyReader\obs-studio-master\.gitattributes
+		SpotifyReader\cpp-httplib-master\.gitignore = SpotifyReader\cpp-httplib-master\.gitignore
+		SpotifyReader\obs-studio-master\.gitignore = SpotifyReader\obs-studio-master\.gitignore
+		SpotifyReader\obs-studio-master\.gitmodules = SpotifyReader\obs-studio-master\.gitmodules
+		SpotifyReader\obs-studio-master\.mailmap = SpotifyReader\obs-studio-master\.mailmap
+		SpotifyReader\obs-studio-master\AUTHORS = SpotifyReader\obs-studio-master\AUTHORS
+		SpotifyReader\cpp-httplib-master\CMakeLists.txt = SpotifyReader\cpp-httplib-master\CMakeLists.txt
+		SpotifyReader\obs-studio-master\CMakeLists.txt = SpotifyReader\obs-studio-master\CMakeLists.txt
+		SpotifyReader\obs-studio-master\libobs\CMakeLists.txt = SpotifyReader\obs-studio-master\libobs\CMakeLists.txt
+		SpotifyReader\obs-studio-master\COC.rst = SpotifyReader\obs-studio-master\COC.rst
+		SpotifyReader\obs-studio-master\COMMITMENT = SpotifyReader\obs-studio-master\COMMITMENT
+		SpotifyReader\obs-studio-master\CONTRIBUTING.rst = SpotifyReader\obs-studio-master\CONTRIBUTING.rst
+		SpotifyReader\obs-studio-master\COPYING = SpotifyReader\obs-studio-master\COPYING
+		SpotifyReader\obs-studio-master\formatcode.sh = SpotifyReader\obs-studio-master\formatcode.sh
+		SpotifyReader\cpp-httplib-master\httplib.h = SpotifyReader\cpp-httplib-master\httplib.h
+		SpotifyReader\cpp-httplib-master\httplibConfig.cmake.in = SpotifyReader\cpp-httplib-master\httplibConfig.cmake.in
+		SpotifyReader\obs-studio-master\INSTALL = SpotifyReader\obs-studio-master\INSTALL
+		SpotifyReader\obs-studio-master\libobs\libobs.pc.in = SpotifyReader\obs-studio-master\libobs\libobs.pc.in
+		SpotifyReader\obs-studio-master\libobs\LibObsConfig.cmake.in = SpotifyReader\obs-studio-master\libobs\LibObsConfig.cmake.in
+		SpotifyReader\obs-studio-master\libobs\LibObsConfigVersion.cmake.in = SpotifyReader\obs-studio-master\libobs\LibObsConfigVersion.cmake.in
+		SpotifyReader\cpp-httplib-master\LICENSE = SpotifyReader\cpp-httplib-master\LICENSE
+		SpotifyReader\cpp-httplib-master\meson.build = SpotifyReader\cpp-httplib-master\meson.build
+		SpotifyReader\cpp-httplib-master\meson_options.txt = SpotifyReader\cpp-httplib-master\meson_options.txt
+		SpotifyReader\obs-studio-master\libobs\obs-audio-controls.c = SpotifyReader\obs-studio-master\libobs\obs-audio-controls.c
+		SpotifyReader\obs-studio-master\libobs\obs-audio-controls.h = SpotifyReader\obs-studio-master\libobs\obs-audio-controls.h
+		SpotifyReader\obs-studio-master\libobs\obs-audio.c = SpotifyReader\obs-studio-master\libobs\obs-audio.c
+		SpotifyReader\obs-studio-master\libobs\obs-avc.c = SpotifyReader\obs-studio-master\libobs\obs-avc.c
+		SpotifyReader\obs-studio-master\libobs\obs-avc.h = SpotifyReader\obs-studio-master\libobs\obs-avc.h
+		SpotifyReader\obs-studio-master\libobs\obs-cocoa.m = SpotifyReader\obs-studio-master\libobs\obs-cocoa.m
+		SpotifyReader\obs-studio-master\libobs\obs-config.h = SpotifyReader\obs-studio-master\libobs\obs-config.h
+		SpotifyReader\obs-studio-master\libobs\obs-data.c = SpotifyReader\obs-studio-master\libobs\obs-data.c
+		SpotifyReader\obs-studio-master\libobs\obs-data.h = SpotifyReader\obs-studio-master\libobs\obs-data.h
+		SpotifyReader\obs-studio-master\libobs\obs-defs.h = SpotifyReader\obs-studio-master\libobs\obs-defs.h
+		SpotifyReader\obs-studio-master\libobs\obs-display.c = SpotifyReader\obs-studio-master\libobs\obs-display.c
+		SpotifyReader\obs-studio-master\libobs\obs-encoder.c = SpotifyReader\obs-studio-master\libobs\obs-encoder.c
+		SpotifyReader\obs-studio-master\libobs\obs-encoder.h = SpotifyReader\obs-studio-master\libobs\obs-encoder.h
+		SpotifyReader\obs-studio-master\libobs\obs-ffmpeg-compat.h = SpotifyReader\obs-studio-master\libobs\obs-ffmpeg-compat.h
+		SpotifyReader\obs-studio-master\libobs\obs-hotkey-name-map.c = SpotifyReader\obs-studio-master\libobs\obs-hotkey-name-map.c
+		SpotifyReader\obs-studio-master\libobs\obs-hotkey.c = SpotifyReader\obs-studio-master\libobs\obs-hotkey.c
+		SpotifyReader\obs-studio-master\libobs\obs-hotkey.h = SpotifyReader\obs-studio-master\libobs\obs-hotkey.h
+		SpotifyReader\obs-studio-master\libobs\obs-hotkeys.h = SpotifyReader\obs-studio-master\libobs\obs-hotkeys.h
+		SpotifyReader\obs-studio-master\libobs\obs-interaction.h = SpotifyReader\obs-studio-master\libobs\obs-interaction.h
+		SpotifyReader\obs-studio-master\libobs\obs-internal.h = SpotifyReader\obs-studio-master\libobs\obs-internal.h
+		SpotifyReader\obs-studio-master\libobs\obs-missing-files.c = SpotifyReader\obs-studio-master\libobs\obs-missing-files.c
+		SpotifyReader\obs-studio-master\libobs\obs-missing-files.h = SpotifyReader\obs-studio-master\libobs\obs-missing-files.h
+		SpotifyReader\obs-studio-master\libobs\obs-module.c = SpotifyReader\obs-studio-master\libobs\obs-module.c
+		SpotifyReader\obs-studio-master\libobs\obs-module.h = SpotifyReader\obs-studio-master\libobs\obs-module.h
+		SpotifyReader\obs-studio-master\libobs\obs-nix-platform.c = SpotifyReader\obs-studio-master\libobs\obs-nix-platform.c
+		SpotifyReader\obs-studio-master\libobs\obs-nix-platform.h = SpotifyReader\obs-studio-master\libobs\obs-nix-platform.h
+		SpotifyReader\obs-studio-master\libobs\obs-nix-wayland.c = SpotifyReader\obs-studio-master\libobs\obs-nix-wayland.c
+		SpotifyReader\obs-studio-master\libobs\obs-nix-wayland.h = SpotifyReader\obs-studio-master\libobs\obs-nix-wayland.h
+		SpotifyReader\obs-studio-master\libobs\obs-nix-x11.c = SpotifyReader\obs-studio-master\libobs\obs-nix-x11.c
+		SpotifyReader\obs-studio-master\libobs\obs-nix-x11.h = SpotifyReader\obs-studio-master\libobs\obs-nix-x11.h
+		SpotifyReader\obs-studio-master\libobs\obs-nix.c = SpotifyReader\obs-studio-master\libobs\obs-nix.c
+		SpotifyReader\obs-studio-master\libobs\obs-nix.h = SpotifyReader\obs-studio-master\libobs\obs-nix.h
+		SpotifyReader\obs-studio-master\libobs\obs-output-delay.c = SpotifyReader\obs-studio-master\libobs\obs-output-delay.c
+		SpotifyReader\obs-studio-master\libobs\obs-output.c = SpotifyReader\obs-studio-master\libobs\obs-output.c
+		SpotifyReader\obs-studio-master\libobs\obs-output.h = SpotifyReader\obs-studio-master\libobs\obs-output.h
+		SpotifyReader\obs-studio-master\libobs\obs-properties.c = SpotifyReader\obs-studio-master\libobs\obs-properties.c
+		SpotifyReader\obs-studio-master\libobs\obs-properties.h = SpotifyReader\obs-studio-master\libobs\obs-properties.h
+		SpotifyReader\obs-studio-master\libobs\obs-scene.c = SpotifyReader\obs-studio-master\libobs\obs-scene.c
+		SpotifyReader\obs-studio-master\libobs\obs-scene.h = SpotifyReader\obs-studio-master\libobs\obs-scene.h
+		SpotifyReader\obs-studio-master\libobs\obs-service.c = SpotifyReader\obs-studio-master\libobs\obs-service.c
+		SpotifyReader\obs-studio-master\libobs\obs-service.h = SpotifyReader\obs-studio-master\libobs\obs-service.h
+		SpotifyReader\obs-studio-master\libobs\obs-source-deinterlace.c = SpotifyReader\obs-studio-master\libobs\obs-source-deinterlace.c
+		SpotifyReader\obs-studio-master\libobs\obs-source-transition.c = SpotifyReader\obs-studio-master\libobs\obs-source-transition.c
+		SpotifyReader\obs-studio-master\libobs\obs-source.c = SpotifyReader\obs-studio-master\libobs\obs-source.c
+		SpotifyReader\obs-studio-master\libobs\obs-source.h = SpotifyReader\obs-studio-master\libobs\obs-source.h
+		SpotifyReader\obs-studio-master\libobs\obs-ui.h = SpotifyReader\obs-studio-master\libobs\obs-ui.h
+		SpotifyReader\obs-studio-master\libobs\obs-video-gpu-encode.c = SpotifyReader\obs-studio-master\libobs\obs-video-gpu-encode.c
+		SpotifyReader\obs-studio-master\libobs\obs-video.c = SpotifyReader\obs-studio-master\libobs\obs-video.c
+		SpotifyReader\obs-studio-master\libobs\obs-view.c = SpotifyReader\obs-studio-master\libobs\obs-view.c
+		SpotifyReader\obs-studio-master\libobs\obs-win-crash-handler.c = SpotifyReader\obs-studio-master\libobs\obs-win-crash-handler.c
+		SpotifyReader\obs-studio-master\libobs\obs-windows.c = SpotifyReader\obs-studio-master\libobs\obs-windows.c
+		SpotifyReader\obs-studio-master\libobs\obs.c = SpotifyReader\obs-studio-master\libobs\obs.c
+		SpotifyReader\obs-studio-master\libobs\obs.h = SpotifyReader\obs-studio-master\libobs\obs.h
+		SpotifyReader\obs-studio-master\libobs\obs.hpp = SpotifyReader\obs-studio-master\libobs\obs.hpp
+		SpotifyReader\obs-studio-master\libobs\obsconfig.h.in = SpotifyReader\obs-studio-master\libobs\obsconfig.h.in
+		SpotifyReader\cpp-httplib-master\README.md = SpotifyReader\cpp-httplib-master\README.md
+		SpotifyReader\obs-studio-master\README.rst = SpotifyReader\obs-studio-master\README.rst
+		SpotifyReader\cpp-httplib-master\split.py = SpotifyReader\cpp-httplib-master\split.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Debug|x64.ActiveCfg = Debug|x64
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Debug|x64.Build.0 = Debug|x64
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Debug|x86.Build.0 = Debug|Win32
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Release|x64.ActiveCfg = Release|x64
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Release|x64.Build.0 = Release|x64
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Release|x86.ActiveCfg = Release|Win32
+		{2885ED73-B213-4261-AF4B-7402D5044DB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Qt5Version = 5.15.2_msvc2019_64
+		SolutionGuid = {FB37FBD4-9C59-4639-B88A-6D561ECF40DB}
+	EndGlobalSection
+EndGlobal
