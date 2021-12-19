@@ -53,3 +53,8 @@ The WebServer is running on \*:8080 per default but you can change it in the set
 - - Qt\5.15.2\msvc2019_64\lib\Qt5Gui.lib
 - - Qt\5.15.2\msvc2019_64\lib\Qt5PlatformCompositorSupport.lib
 - - Qt\5.15.2\msvc2019_64\lib\Qt5ThemeSupport.lib
+
+## Inheritances
+
+- Web Server by [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+- UI Based on [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi)
